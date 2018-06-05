@@ -1,1 +1,2 @@
-# FatihCakir
+Websitesinde sað tarafta menü bulunmaktadýr. Menüler beþ baþlýk altýnda toplanmýþtýr. Üst kýsýmda bir adet banner bulunmaktadýr. Sol üst kýsýmda ad soyadým yer almaktadýr. En alt kýsýmda footer bulunmaktadýr.
+Anasayfamda Web terminolojisi hakkýnda bilgi bulunmaktadir. Menü baþlýklarý altýnda FAQ, Download, Upload, Tag, Kullanýcý arayüzü kavramlarý hakkýnda video anlatýmlarý mevcuttur.
